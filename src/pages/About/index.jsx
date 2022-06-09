@@ -4,7 +4,7 @@ const About = () => {
   const { slug } = useParams();
   return (
     <div>
-      <h1>About</h1>
+      <h1>About edit for me</h1>
       <p>This is the about page {slug}</p>
     </div>
   );
